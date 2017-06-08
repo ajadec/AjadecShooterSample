@@ -1,0 +1,9 @@
+.*/
+Library/
+obj/
+ProjectSettings/
+Temp/
+*.sln
+*csproj
+Assets/*
+!original/
